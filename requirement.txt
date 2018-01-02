@@ -2,6 +2,8 @@ Flask			0.12.2
 Flask-Migrate		2.1.1
 Flask-SQLALchemy	2.3.2
 Flask-WTF		0.14.2
+Flask_Script			2.0.6
+Flask_Script_Extras		0.1.4
 Jinja2			2.10
 Mako			1.0.7
 MarkupSafe		1.0
